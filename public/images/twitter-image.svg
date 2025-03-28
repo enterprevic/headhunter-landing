@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="675" viewBox="0 0 1200 675" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background with Adire pattern -->
+  <rect width="1200" height="675" fill="#FFFAF0"/>
+  
+  <!-- Adire pattern background -->
+  <g opacity="0.08">
+    <!-- Adire-inspired pattern elements -->
+    <pattern id="adirePattern" width="100" height="100" patternUnits="userSpaceOnUse">
+      <path d="M0,0 L20,20 L0,40 L20,60 L0,80 L20,100" stroke="#9B4F96" stroke-width="1.5" fill="none"/>
+      <path d="M40,0 L60,20 L40,40 L60,60 L40,80 L60,100" stroke="#9B4F96" stroke-width="1.5" fill="none"/>
+      <path d="M80,0 L100,20 L80,40 L100,60 L80,80 L100,100" stroke="#9B4F96" stroke-width="1.5" fill="none"/>
+      <path d="M0,20 L100,20" stroke="#D3A121" stroke-width="1" stroke-dasharray="2 4" fill="none"/>
+      <path d="M0,60 L100,60" stroke="#D3A121" stroke-width="1" stroke-dasharray="2 4" fill="none"/>
+      <circle cx="25" cy="25" r="8" fill="#008751" opacity="0.2"/>
+      <circle cx="75" cy="75" r="8" fill="#008751" opacity="0.2"/>
+    </pattern>
+    <rect width="1200" height="675" fill="url(#adirePattern)"/>
+  </g>
+  
+  <!-- Traditional Nigerian fabric border -->
+  <rect x="20" y="20" width="1160" height="635" fill="none" stroke="#D3A121" stroke-width="3" stroke-dasharray="10 5"/>
+  <rect x="40" y="40" width="1120" height="595" fill="none" stroke="#008751" stroke-width="2" stroke-dasharray="5 5"/>
+  
+  <!-- Logo -->
+  <g transform="translate(400, 200) scale(2)">
+    <!-- Yoruba Talking Drum -->
+    <g transform="scale(1.2)">
+      <path d="M10,0 C5,3 0,10 0,20 C0,30 5,37 10,40 L20,40 C25,37 30,30 30,20 C30,10 25,3 20,0 L10,0 Z" fill="#D3A121" fill-opacity="0.7" stroke="#8B4513" stroke-width="1.5"/>
+      <path d="M0,20 L30,20" stroke="#8B4513" stroke-width="1"/>
+      <path d="M5,10 L25,10 M5,30 L25,30" stroke="#8B4513" stroke-width="1" stroke-dasharray="1 1"/>
+      <!-- Drum strings -->
+      <path d="M15,0 L15,-5 M15,40 L15,45" stroke="#8B4513" stroke-width="1.5"/>
+      <path d="M10,-5 L20,-5 M10,45 L20,45" stroke="#8B4513" stroke-width="1.5"/>
+    </g>
+    
+    <!-- Headhunter Text with Nigerian styling -->
+    <g transform="translate(50, 20)">
+      <!-- "head" with Adinkra symbol integration -->
+      <g fill="#008751">
+        <!-- h -->
+        <path d="M0,-15 L0,10 M0,-2 C0,-2 5,-2 7,-2 C9,-2 9,2 7,2 C5,2 0,2 0,2" stroke="#008751" stroke-width="2" stroke-linecap="round" fill="none"/>
+        
+        <!-- e with Adinkra wisdom knot integration -->
+        <path d="M12,-8 C16,-8 20,-5 20,0 C20,5 16,8 12,8 C8,8 4,5 4,0 C4,-5 8,-8 12,-8 Z M4,0 L20,0" stroke="#008751" stroke-width="2" fill="none"/>
+        
+        <!-- a with Adinkra unity symbol -->
+        <path d="M32,-8 C28,-8 24,-5 24,0 C24,5 28,8 32,8 C36,8 40,5 40,0 M24,0 L40,0" stroke="#008751" stroke-width="2" fill="none"/>
+        
+        <!-- d with Adire curve -->
+        <path d="M44,-15 L44,10 M44,-8 C48,-8 52,-5 52,0 C52,5 48,8 44,8" stroke="#008751" stroke-width="2" stroke-linecap="round" fill="none"/>
+      </g>
+      
+      <!-- "hunter" with Nigerian styling -->
+      <g transform="translate(56, 0)" fill="#D3A121">
+        <!-- h with spear design -->
+        <path d="M0,-15 L0,10 M0,-2 C0,-2 5,-2 7,-2 C9,-2 9,2 7,2 C5,2 0,2 0,2" stroke="#D3A121" stroke-width="2" stroke-linecap="round" fill="none"/>
+        
+        <!-- u with calabash curve -->
+        <path d="M12,-8 L12,2 C12,5 16,8 20,8 C24,8 28,5 28,2 L28,-8" stroke="#D3A121" stroke-width="2" stroke-linecap="round" fill="none"/>
+        
+        <!-- n with traditional pattern -->
+        <path d="M32,-8 L32,8 M32,-8 C32,-8 36,-8 38,-8 C40,-8 44,-5 44,0 L44,8" stroke="#D3A121" stroke-width="2" stroke-linecap="round" fill="none"/>
+        
+        <!-- t with crossroads symbol -->
+        <path d="M48,-15 L48,8 M44,-8 L54,-8" stroke="#D3A121" stroke-width="2" stroke-linecap="round" fill="none"/>
+        
+        <!-- e with circular Adinkra symbol -->
+        <path d="M64,-8 C60,-8 56,-5 56,0 C56,5 60,8 64,8 C68,8 72,5 72,0 C72,-5 68,-8 64,-8 Z M56,0 L72,0" stroke="#D3A121" stroke-width="2" fill="none"/>
+        
+        <!-- r with traditional staff -->
+        <path d="M76,-8 L76,8 M76,-8 C76,-8 80,-8 82,-8 C84,-8 86,-6 86,-4 C86,-2 84,0 82,0 C80,0 76,0 76,0" stroke="#D3A121" stroke-width="2" stroke-linecap="round" fill="none"/>
+      </g>
+      
+      <!-- .ng with Nigerian colors -->
+      <g transform="translate(144, 0)">
+        <!-- dot with Adinkra symbol -->
+        <circle cx="0" cy="4" r="2" fill="#9B4F96"/>
+        
+        <!-- n with Nigerian green -->
+        <path d="M4,-8 L4,8 M4,-8 C4,-8 8,-8 10,-8 C12,-8 16,-5 16,0 L16,8" stroke="#008751" stroke-width="2" stroke-linecap="round" fill="none"/>
+        
+        <!-- g with Calabash shape -->
+        <path d="M28,-8 C24,-8 20,-5 20,0 C20,5 24,8 28,8 C32,8 36,5 36,0 L36,-8 M20,0 L36,0 M28,8 L28,15 C28,18 24,20 20,20" stroke="#D3A121" stroke-width="2" fill="none"/>
+      </g>
+    </g>
+  </g>
+  
+  <!-- Tagline -->
+  <g transform="translate(600, 400)">
+    <text x="0" y="0" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle" fill="#008751">Nigeria's Premier Talent Recruitment Platform</text>
+  </g>
+  
+  <!-- Cultural elements -->
+  <g transform="translate(600, 460)">
+    <text x="0" y="0" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#333333">Connecting Nigerian Talent with Opportunities</text>
+  </g>
+  
+  <!-- Traditional Nigerian symbols -->
+  <g transform="translate(200, 550)">
+    <!-- Adinkra symbol for wisdom -->
+    <path d="M0,0 C0,10 10,20 20,20 C30,20 40,10 40,0 C40,-10 30,-20 20,-20 C10,-20 0,-10 0,0 Z" fill="none" stroke="#008751" stroke-width="2"/>
+    <path d="M10,-10 L30,10 M10,10 L30,-10" stroke="#008751" stroke-width="2"/>
+  </g>
+  
+  <g transform="translate(1000, 550)">
+    <!-- Adinkra symbol for unity -->
+    <circle cx="0" cy="0" r="20" fill="none" stroke="#D3A121" stroke-width="2"/>
+    <path d="M-15,-15 L15,15 M-15,15 L15,-15" stroke="#D3A121" stroke-width="2"/>
+  </g>
+  
+  <!-- Website URL -->
+  <g transform="translate(600, 550)">
+    <text x="0" y="0" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" fill="#333333">headhunter.ng</text>
+  </g>
+</svg>

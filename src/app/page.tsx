@@ -57,12 +57,20 @@ export default function Home() {
            }}
            role="region"
            aria-label="Headhunter.ng coming soon information">
-        <div className="w-full h-full rounded-lg p-6 sm:p-10" 
+        <div className="w-full h-full rounded-lg p-6 sm:p-10 relative" 
              style={{
-               backgroundImage: 'url("/images/adire-pattern.svg")',
-               backgroundSize: '400px',
-               backgroundOpacity: '0.05'
+               backgroundSize: '400px'
              }}>
+          {/* Adire pattern background with proper opacity */}
+          <div 
+            className="absolute inset-0 -z-10"
+            style={{
+              backgroundImage: 'url("/images/adire-pattern.svg")',
+              backgroundSize: '400px',
+              opacity: '0.05' /* Inline style for exact opacity control */
+            }}
+            aria-hidden="true"
+          ></div>
 
           <header className="flex flex-col items-center mb-8">
             {/* Logo with Nigerian-inspired glow */}
@@ -116,7 +124,7 @@ export default function Home() {
           <section className="bg-white/50 backdrop-blur-sm rounded-lg p-4 sm:p-6 mb-8 border border-[#D3A121]/20">
             <div className="text-center">
               <div className="inline-block bg-gradient-to-r from-[#008751]/10 via-[#D3A121]/10 to-[#008751]/10 px-6 py-2 rounded-full mb-6">
-                <h2 className="text-xl font-bold text-[#008751]">Launching Q3 2025</h2>
+                <h2 className="text-xl font-bold text-[#008751]">Launching Soon</h2>
               </div>
               
               {/* Feature cards with Nigerian cultural colors */}
@@ -206,7 +214,7 @@ export default function Home() {
               </div>
               
               <div className="text-center text-sm text-gray-900">
-                <p>Expected Launch: Q3 2025 | <a href="mailto:info@headhunter.ng" className="text-[#008751] hover:underline focus:outline-none focus:ring-2 focus:ring-[#008751] rounded" aria-label="Email us at info@headhunter.ng">info@headhunter.ng</a></p>
+           
                 <p className="mt-1">&copy; {new Date().getFullYear()} Headhunter.ng. All rights reserved.</p>
               </div>
             </div>
