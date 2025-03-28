@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Nigerian traditional symbols -->
+  
+  <!-- Adinkra symbol (Unity) -->
+  <g transform="translate(50, 50)">
+    <circle cx="25" cy="25" r="23" stroke="#D3A121" stroke-width="2" fill="none"/>
+    <path d="M25,5 L25,45 M5,25 L45,25" stroke="#D3A121" stroke-width="2"/>
+    <circle cx="25" cy="25" r="10" stroke="#D3A121" stroke-width="2" fill="none"/>
+  </g>
+  
+  <!-- Yoruba Talking Drum -->
+  <g transform="translate(150, 40)">
+    <path d="M20,5 C10,10 5,15 5,25 C5,35 10,40 20,45 L30,45 C40,40 45,35 45,25 C45,15 40,10 30,5 L20,5 Z" 
+          fill="#9B4F96" fill-opacity="0.2" stroke="#9B4F96" stroke-width="2"/>
+    <line x1="5" y1="25" x2="45" y2="25" stroke="#9B4F96" stroke-width="1"/>
+    <line x1="10" y1="15" x2="40" y2="15" stroke="#9B4F96" stroke-width="1"/>
+    <line x1="10" y1="35" x2="40" y2="35" stroke="#9B4F96" stroke-width="1"/>
+  </g>
+  
+  <!-- Igbo Mask -->
+  <g transform="translate(230, 40)">
+    <path d="M25,5 C15,5 5,15 5,30 C5,40 15,50 25,50 C35,50 45,40 45,30 C45,15 35,5 25,5 Z" 
+          fill="#008751" fill-opacity="0.2" stroke="#008751" stroke-width="2"/>
+    <path d="M15,20 C15,18 20,15 25,15 C30,15 35,18 35,20" stroke="#008751" stroke-width="1.5" fill="none"/>
+    <circle cx="17" cy="25" r="3" fill="#008751"/>
+    <circle cx="33" cy="25" r="3" fill="#008751"/>
+    <path d="M20,35 C22,38 28,38 30,35" stroke="#008751" stroke-width="1.5" fill="none"/>
+  </g>
+  
+  <!-- Hausa Geometric Pattern -->
+  <g transform="translate(40, 130)">
+    <rect x="5" y="5" width="40" height="40" stroke="#D3A121" stroke-width="2" fill="none"/>
+    <path d="M5,5 L45,45 M45,5 L5,45" stroke="#D3A121" stroke-width="2"/>
+    <circle cx="25" cy="25" r="10" stroke="#D3A121" stroke-width="2" fill="none"/>
+  </g>
+  
+  <!-- Fulani Jewelry Pattern -->
+  <g transform="translate(140, 130)">
+    <circle cx="25" cy="25" r="20" stroke="#9B4F96" stroke-width="2" fill="none"/>
+    <path d="M25,5 L25,45" stroke="#9B4F96" stroke-width="1.5"/>
+    <path d="M5,25 L45,25" stroke="#9B4F96" stroke-width="1.5"/>
+    <path d="M10,10 L40,40" stroke="#9B4F96" stroke-width="1.5"/>
+    <path d="M10,40 L40,10" stroke="#9B4F96" stroke-width="1.5"/>
+    <circle cx="25" cy="25" r="5" fill="#9B4F96" fill-opacity="0.3"/>
+  </g>
+  
+  <!-- Calabash Design -->
+  <g transform="translate(230, 130)">
+    <path d="M25,5 C35,5 45,15 45,25 C45,40 35,45 25,45 C15,45 5,40 5,25 C5,15 15,5 25,5 Z" 
+          fill="#D3A121" fill-opacity="0.2" stroke="#D3A121" stroke-width="2"/>
+    <path d="M15,15 C20,20 30,20 35,15" stroke="#D3A121" stroke-width="1.5" fill="none"/>
+    <path d="M15,25 C20,30 30,30 35,25" stroke="#D3A121" stroke-width="1.5" fill="none"/>
+    <path d="M15,35 C20,40 30,40 35,35" stroke="#D3A121" stroke-width="1.5" fill="none"/>
+  </g>
+  
+  <!-- Ankara Pattern Element -->
+  <g transform="translate(40, 220)">
+    <circle cx="25" cy="25" r="20" fill="#008751" fill-opacity="0.2" stroke="#008751" stroke-width="1.5"/>
+    <path d="M10,25 C10,15 25,5 40,25 C25,45 10,35 10,25 Z" stroke="#008751" stroke-width="1.5" fill="none"/>
+    <circle cx="25" cy="25" r="5" fill="#008751" fill-opacity="0.3"/>
+  </g>
+  
+  <!-- Aso-Oke Pattern -->
+  <g transform="translate(140, 220)">
+    <rect x="5" y="5" width="40" height="40" fill="#9B4F96" fill-opacity="0.1" stroke="#9B4F96" stroke-width="1.5"/>
+    <path d="M5,15 L45,15 M5,25 L45,25 M5,35 L45,35" stroke="#9B4F96" stroke-width="1"/>
+    <path d="M15,5 L15,45 M25,5 L25,45 M35,5 L35,45" stroke="#9B4F96" stroke-width="1"/>
+  </g>
+  
+  <!-- Benin Bronze Motif -->
+  <g transform="translate(230, 220)">
+    <circle cx="25" cy="25" r="20" fill="#D3A121" fill-opacity="0.2" stroke="#D3A121" stroke-width="1.5"/>
+    <path d="M25,10 L30,20 L40,20 L32,28 L35,38 L25,32 L15,38 L18,28 L10,20 L20,20 Z" 
+          stroke="#D3A121" stroke-width="1.5" fill="none"/>
+  </g>
+</svg>

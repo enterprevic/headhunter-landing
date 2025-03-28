@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Ankara-inspired background pattern -->
+  <rect width="1200" height="800" fill="#f8f8f8"/>
+  
+  <!-- Base pattern with Nigerian colors -->
+  <g opacity="0.07">
+    <!-- Row 1 -->
+    <circle cx="100" cy="100" r="60" fill="#008751"/>
+    <circle cx="300" cy="100" r="60" fill="#D3A121"/>
+    <circle cx="500" cy="100" r="60" fill="#9B4F96"/>
+    <circle cx="700" cy="100" r="60" fill="#008751"/>
+    <circle cx="900" cy="100" r="60" fill="#D3A121"/>
+    <circle cx="1100" cy="100" r="60" fill="#9B4F96"/>
+    
+    <!-- Row 2 -->
+    <circle cx="200" cy="200" r="60" fill="#9B4F96"/>
+    <circle cx="400" cy="200" r="60" fill="#008751"/>
+    <circle cx="600" cy="200" r="60" fill="#D3A121"/>
+    <circle cx="800" cy="200" r="60" fill="#9B4F96"/>
+    <circle cx="1000" cy="200" r="60" fill="#008751"/>
+    <circle cx="1200" cy="200" r="60" fill="#D3A121"/>
+    
+    <!-- Row 3 -->
+    <circle cx="100" cy="300" r="60" fill="#D3A121"/>
+    <circle cx="300" cy="300" r="60" fill="#9B4F96"/>
+    <circle cx="500" cy="300" r="60" fill="#008751"/>
+    <circle cx="700" cy="300" r="60" fill="#D3A121"/>
+    <circle cx="900" cy="300" r="60" fill="#9B4F96"/>
+    <circle cx="1100" cy="300" r="60" fill="#008751"/>
+    
+    <!-- Row 4 -->
+    <circle cx="200" cy="400" r="60" fill="#008751"/>
+    <circle cx="400" cy="400" r="60" fill="#D3A121"/>
+    <circle cx="600" cy="400" r="60" fill="#9B4F96"/>
+    <circle cx="800" cy="400" r="60" fill="#008751"/>
+    <circle cx="1000" cy="400" r="60" fill="#D3A121"/>
+    <circle cx="1200" cy="400" r="60" fill="#9B4F96"/>
+    
+    <!-- Row 5 -->
+    <circle cx="100" cy="500" r="60" fill="#9B4F96"/>
+    <circle cx="300" cy="500" r="60" fill="#008751"/>
+    <circle cx="500" cy="500" r="60" fill="#D3A121"/>
+    <circle cx="700" cy="500" r="60" fill="#9B4F96"/>
+    <circle cx="900" cy="500" r="60" fill="#008751"/>
+    <circle cx="1100" cy="500" r="60" fill="#D3A121"/>
+    
+    <!-- Row 6 -->
+    <circle cx="200" cy="600" r="60" fill="#D3A121"/>
+    <circle cx="400" cy="600" r="60" fill="#9B4F96"/>
+    <circle cx="600" cy="600" r="60" fill="#008751"/>
+    <circle cx="800" cy="600" r="60" fill="#D3A121"/>
+    <circle cx="1000" cy="600" r="60" fill="#9B4F96"/>
+    <circle cx="1200" cy="600" r="60" fill="#008751"/>
+    
+    <!-- Row 7 -->
+    <circle cx="100" cy="700" r="60" fill="#008751"/>
+    <circle cx="300" cy="700" r="60" fill="#D3A121"/>
+    <circle cx="500" cy="700" r="60" fill="#9B4F96"/>
+    <circle cx="700" cy="700" r="60" fill="#008751"/>
+    <circle cx="900" cy="700" r="60" fill="#D3A121"/>
+    <circle cx="1100" cy="700" r="60" fill="#9B4F96"/>
+  </g>
+  
+  <!-- Ankara pattern overlays -->
+  <g opacity="0.05">
+    <!-- Spiral patterns -->
+    <path d="M100,100 C120,80 140,80 160,100 C180,120 180,140 160,160 C140,180 120,180 100,160 C80,140 80,120 100,100" 
+          stroke="#000" stroke-width="2" fill="none"/>
+    <path d="M500,300 C520,280 540,280 560,300 C580,320 580,340 560,360 C540,380 520,380 500,360 C480,340 480,320 500,300" 
+          stroke="#000" stroke-width="2" fill="none"/>
+    <path d="M900,500 C920,480 940,480 960,500 C980,520 980,540 960,560 C940,580 920,580 900,560 C880,540 880,520 900,500" 
+          stroke="#000" stroke-width="2" fill="none"/>
+    <path d="M300,700 C320,680 340,680 360,700 C380,720 380,740 360,760 C340,780 320,780 300,760 C280,740 280,720 300,700" 
+          stroke="#000" stroke-width="2" fill="none"/>
+    
+    <!-- Diamond patterns -->
+    <path d="M300,100 L350,150 L300,200 L250,150 Z" stroke="#000" stroke-width="2" fill="none"/>
+    <path d="M700,300 L750,350 L700,400 L650,350 Z" stroke="#000" stroke-width="2" fill="none"/>
+    <path d="M1100,500 L1150,550 L1100,600 L1050,550 Z" stroke="#000" stroke-width="2" fill="none"/>
+    <path d="M500,700 L550,750 L500,800 L450,750 Z" stroke="#000" stroke-width="2" fill="none"/>
+    
+    <!-- Wave patterns -->
+    <path d="M0,250 C50,200 100,300 150,250 C200,200 250,300 300,250 C350,200 400,300 450,250 C500,200 550,300 600,250 C650,200 700,300 750,250 C800,200 850,300 900,250 C950,200 1000,300 1050,250 C1100,200 1150,300 1200,250" 
+          stroke="#000" stroke-width="2" fill="none"/>
+    <path d="M0,650 C50,600 100,700 150,650 C200,600 250,700 300,650 C350,600 400,700 450,650 C500,600 550,700 600,650 C650,600 700,700 750,650 C800,600 850,700 900,650 C950,600 1000,700 1050,650 C1100,600 1150,700 1200,650" 
+          stroke="#000" stroke-width="2" fill="none"/>
+  </g>
+  
+  <!-- Adinkra symbols scattered -->
+  <g opacity="0.06">
+    <!-- Unity symbols -->
+    <g transform="translate(150, 150) scale(0.5)">
+      <circle cx="0" cy="0" r="30" stroke="#000" stroke-width="2" fill="none"/>
+      <path d="M0,-30 L0,30 M-30,0 L30,0" stroke="#000" stroke-width="2"/>
+    </g>
+    <g transform="translate(650, 450) scale(0.5)">
+      <circle cx="0" cy="0" r="30" stroke="#000" stroke-width="2" fill="none"/>
+      <path d="M0,-30 L0,30 M-30,0 L30,0" stroke="#000" stroke-width="2"/>
+    </g>
+    <g transform="translate(1050, 150) scale(0.5)">
+      <circle cx="0" cy="0" r="30" stroke="#000" stroke-width="2" fill="none"/>
+      <path d="M0,-30 L0,30 M-30,0 L30,0" stroke="#000" stroke-width="2"/>
+    </g>
+    
+    <!-- Star patterns -->
+    <g transform="translate(450, 250) scale(0.5)">
+      <path d="M0,-30 L7,-10 L28,-10 L12,5 L18,25 L0,12 L-18,25 L-12,5 L-28,-10 L-7,-10 Z" 
+            stroke="#000" stroke-width="2" fill="none"/>
+    </g>
+    <g transform="translate(950, 650) scale(0.5)">
+      <path d="M0,-30 L7,-10 L28,-10 L12,5 L18,25 L0,12 L-18,25 L-12,5 L-28,-10 L-7,-10 Z" 
+            stroke="#000" stroke-width="2" fill="none"/>
+    </g>
+    <g transform="translate(250, 550) scale(0.5)">
+      <path d="M0,-30 L7,-10 L28,-10 L12,5 L18,25 L0,12 L-18,25 L-12,5 L-28,-10 L-7,-10 Z" 
+            stroke="#000" stroke-width="2" fill="none"/>
+    </g>
+  </g>
+</svg>

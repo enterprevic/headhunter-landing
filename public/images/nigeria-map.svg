@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Simplified Nigeria map outline -->
+  <path d="M150,50 C120,60 80,80 60,120 C40,160 50,200 70,230 C90,260 130,270 150,270 C170,270 210,260 230,230 C250,200 260,160 240,120 C220,80 180,60 150,50 Z" 
+        fill="#008751" fill-opacity="0.1" stroke="#008751" stroke-width="2"/>
+  
+  <!-- Major cities as dots -->
+  <circle cx="150" cy="120" r="5" fill="#D3A121" /> <!-- Abuja (capital) -->
+  <circle cx="170" cy="200" r="4" fill="#D3A121" /> <!-- Lagos -->
+  <circle cx="90" cy="150" r="3" fill="#D3A121" /> <!-- Kano -->
+  <circle cx="200" cy="150" r="3" fill="#D3A121" /> <!-- Port Harcourt -->
+  <circle cx="120" cy="90" r="3" fill="#D3A121" /> <!-- Kaduna -->
+  <circle cx="180" cy="90" r="3" fill="#D3A121" /> <!-- Jos -->
+  <circle cx="110" cy="210" r="3" fill="#D3A121" /> <!-- Ibadan -->
+  <circle cx="210" cy="210" r="3" fill="#D3A121" /> <!-- Calabar -->
+  
+  <!-- River Niger and Benue -->
+  <path d="M80,100 C100,120 120,130 150,140 C180,150 200,170 220,200" 
+        stroke="#0077B6" stroke-width="2" stroke-opacity="0.6" fill="none"/>
+  <path d="M220,140 C200,145 180,145 150,140" 
+        stroke="#0077B6" stroke-width="2" stroke-opacity="0.6" fill="none"/>
+</svg>
